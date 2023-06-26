@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm João Pedro, but everybody calls me JP!</h1>
 <h3 align="center">Programming with the same passion that I eat pizza. 💻 🍕 Never stop learning!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jpzrdev" alt="jpzrdev" /></a> </p>
-
 - 📫 How to reach me **jpzrdev@outlook.com**
 
 - ⚡ Fun fact **I love baby yoda!**
