@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm João Pedro, but everybody calls me JP!</h1>
-<h3 align="center">Programming with the same passion that I eat pizza. 💻 🍕 Never stop learning!</h3>
+<h1 align="left">Hi 👋, I'm João Pedro, but everybody calls me JP!</h1>
+<h3 align="left">Programming with the same passion that I eat pizza. 💻 🍕 Never stop learning!</h3>
 
 - 📫 How to reach me **jpzrdev@outlook.com**
 
