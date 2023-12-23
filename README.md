@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **jpzrdev@outlook.com**
 
-- ⚡ Fun fact **I love baby yoda!**
+- ⚡ Fun fact **Hunter x Hunter is the best**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
