@@ -43,6 +43,6 @@ Outside of coding, I’m probably, playing games, reading or learning something 
 
 ## Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-joaopzrocha-006bed?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/joaopzrocha)](www.linkedin.com/in/joaopzrocha)
+[![LinkedIn](https://img.shields.io/badge/-joaopzrocha-006bed?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopzrocha)](http://www.linkedin.com/in/joaopzrocha)
 [![Outlook](https://img.shields.io/badge/-jpzrdev@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&llink=mailto:jpzrdev@outlook.com)](mailto:jpzrdev@outlook.com)
 [![GitHub](https://img.shields.io/github/followers/jpzrdev?label=follow&style=social)](https://github.com/jpzrdev)
